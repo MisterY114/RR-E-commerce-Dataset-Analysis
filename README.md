@@ -68,7 +68,7 @@
 #### 4. 查看仪表板
 用 Power BI Desktop 打开 `PBI/` 中的 `PBI可视化分析展示.pbix` 文件即可。
 
-# 分析仪表板预览
+# 部分截图
 ![图片描述](images/清洗及分析部分截图1.png)
 ![图片描述](images/清洗及分析部分截图2.png)
 ![图片描述](images/PBI可视化分析截图.png)
